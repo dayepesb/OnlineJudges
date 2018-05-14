@@ -2,7 +2,7 @@ package ProblemsIn_Java.Uri;
 
 import java.util.Scanner;
 
-public class SumaDeN�merosConsecutivosImparesI {
+public class SumaDeNumerosConsecutivosImparesI {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 

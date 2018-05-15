@@ -1,4 +1,4 @@
-package ProblemsIn_Java.Light
+package ProblemsIn_Java.LightOJ;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -4,8 +4,8 @@ static TreeSet<String> t = new TreeSet<>();
 private static void rec(boolean[] b, StringBuffer sb) {
 	if (sb.length() == 8) {
 		StringBuffer s=new StringBuffer();
-		for (int i = 0; i < sb.length(); i++) 
-			s.append(sb.charAt(i)+" ");			
+		for (int i = 0; i < sb.length(); i++)
+			s.append(sb.charAt(i)+" ");
 		t.add(s.toString().trim());
 		return;
 	}

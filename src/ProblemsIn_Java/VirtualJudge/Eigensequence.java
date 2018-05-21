@@ -10,7 +10,6 @@ public class Eigensequence {
         PrintWriter out = new PrintWriter(System.out);
 
 
-
         out.close();
         in.close();
     }

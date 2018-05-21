@@ -20,7 +20,7 @@ public class Ananagrams {
 			if (word.equals("#"))
 				break;
 
-			List<Integer> alphaFreq = new ArrayList<Integer>(
+			List<Integer> alphaFreq = new ArrayList<>(
 					Collections.nCopies(26, 0));
 
 			for (int i = 0; i < word.length(); i++) {

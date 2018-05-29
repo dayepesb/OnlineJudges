@@ -1,86 +1,98 @@
 package ProblemsIn_Java.VirtualJudge;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.io.PrintWriter;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class socialhare {
 
-    static int[] D1;
-
     public static void main(String[] args) throws Exception {
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
         PrintWriter out = new PrintWriter(System.out);
-
-        char m[][];
-        for (String line; (line = in.readLine()) != null; ) {
-            StringTokenizer st = new StringTokenizer(line);
-            int r = Integer.parseInt(st.nextToken());
-            int c = Integer.parseInt(st.nextToken());
-            int q = Integer.parseInt(st.nextToken());
-            m = new char[r][];
-            for (int i = 0; i < r; i++) m[i] = (in.readLine().trim()).toCharArray();
-
-            long cnt = 0;
-            while (q-- > 0) {
-
-                String pattern = in.readLine().trim();
-                //izq a derecha-derecha a izq
-                for (int i = 0; i < r; i++) {
-                    StringBuilder wordMat = new StringBuilder(new String(m[i]));
-                    cnt += boyerMooreHorspool(wordMat.toString(), pattern, 256);
-                    cnt += boyerMooreHorspool(wordMat.reverse().toString(), pattern, 256);
+        int r, c, w;
+        String line;
+        String[] puzzle;
+        char[][] m;
+        try {
+            while ((line = in.readLine()) != null) {
+                StringTokenizer st = new StringTokenizer(line);
+                r = Integer.parseInt(st.nextToken());
+                c = Integer.parseInt(st.nextToken());
+                w = Integer.parseInt(st.nextToken());
+                puzzle = new String[r];
+                for (int i = 0; i < r; ++i) {
+                    puzzle[i] = in.readLine();
                 }
-                //arriba abajo- abajo arriba
-                for (int j = 0; j < c; j++) {
-                    StringBuilder wordMat = new StringBuilder();
-                    for (int i = 0; i < r; i++)
-                        wordMat.append(m[i][j]);
-                    cnt += boyerMooreHorspool(wordMat.toString(), pattern, 256);
-                    cnt += boyerMooreHorspool(wordMat.reverse().toString(), pattern, 256);
+                m = new char[r + 2][c + 2];
+                for (char[] row : m)
+                    Arrays.fill(row, '*');
+                for (int i = 0; i < r; ++i)
+                    for (int j = 0; j < c; ++j) {
+                        char p = puzzle[i].charAt(j);
+                        m[i + 1][j + 1] = p;
+                    }
+                r = m.length;
+                c = m[0].length;
+                StringBuffer buff = new StringBuffer((r + 2) * (c + 2) * 6);
+                for (int i = 0; i < r; ++i) {
+                    buff.append(m[i]);
                 }
-                System.out.println(cnt);
+                for (int i = 0; i < c; ++i)
+                    for (int j = 0; j < r; j++)
+                        buff.append(m[j][i]);
+                for (int i = 0; i < r; ++i) concatenatInBuffer(m, buff, i, 0, -1, 1);
+                for (int i = 0; i < c; ++i) concatenatInBuffer(m, buff, r - 1, i, -1, 1);
+                for (int i = 0; i < c; ++i) concatenatInBuffer(m, buff, r - 1, i, -1, -1);
+                for (int i = r - 1; i >= 0; --i) concatenatInBuffer(m, buff, i, c - 1, -1, -1);
+                char[] char_m = buff.toString().toCharArray();
+                int ans = 0;
+                for (int x = 0; x < w; ++x) {
+                    char[] word = in.readLine().toCharArray();
+                    if (word.length > char_m.length)
+                        continue;
+                    int[] pattern = strToVec(word, 0, word.length);
+                    int[] curr_pattern = strToVec(char_m, 0, word.length);
+                    for (int i = 1; i + word.length <= char_m.length; ++i) {
+                        --curr_pattern[char_m[i - 1] != '*' ? (char_m[i - 1] - 'a') : 26];
+                        ++curr_pattern[char_m[i + word.length - 1] != '*' ? (char_m[i + word.length - 1] - 'a') : 26];
+                        if (vecEquals(pattern, curr_pattern)) {
+                            ++ans;
+                            break;
+                        }
+                    }
+                }
+                out.println(ans + "");
             }
-        }
+        }catch (Exception e){
 
+        }
         out.close();
         in.close();
     }
 
-    static long boyerMooreHorspool(String text, String pattern, int size) {
-
-        ArrayList<Integer> resp = new ArrayList<>();
-        char P[] = pattern.trim().toCharArray();
-        char T[] = text.trim().toCharArray();
-        int offSet = 0;
-        int scan = 0;
-        int last = P.length - 1;
-        int maxOffSet = T.length - P.length;
-        preBoyerMooreSuffixBad(P, size);
-        long cnt = 0;
-        while (offSet <= maxOffSet) {
-            for (scan = last; P[scan] == T[scan + offSet]; scan--) {
-                if (scan == 0)
-                    cnt++;
-                if (scan == 0) break;
-            }
-            offSet += D1[T[offSet + last]];
+    public static int[] strToVec(char[] s, int start, int length) {
+        int[] ret = new int[27];
+        for (int i = start; i < start + length; ++i) {
+            ++ret[s[i] != '*' ? (s[i] - 'a') : 26];
         }
-
-        return cnt;
-
+        return ret;
     }
 
-    static void preBoyerMooreSuffixBad(char P[], int size) {
-        int m = P.length;
-        int last = m - 1;
-        D1 = new int[size];
-        Arrays.fill(D1, m);
-        for (int i = 0; i < last; i++) {
-            D1[P[i]] = last - i;
+    public static boolean vecEquals(int[] a, int[] b) {
+        for (int i = 0; i < a.length; ++i) {
+            if (a[i] != b[i]) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    public static void concatenatInBuffer(char[][] m, StringBuffer buff, int row, int col, int movr, int movc) {
+        while (row >= 0 && col >= 0 && row < m.length && col < m[0].length) {
+            buff.append(m[row][col]);
+            row += movr;
+            col += movc;
         }
     }
 }

@@ -1,6 +1,10 @@
 package ProblemsIn_Java.NoteBook;
 
+import java.awt.*;
+import java.awt.geom.Point2D;
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class GeometriaComputacional {
 

@@ -5,11 +5,45 @@
     <bookmark url="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/TrafficFlow.java" line="2" />
     <bookmark url="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/TrafficFlow.java" line="32" />
     <bookmark url="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/KingdomDivision.java" line="28" />
-    <bookmark url="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/PascalsTriangleOfDeath.java" line="26" mnemonic="9" />
+    <bookmark url="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/JustABitSorted.java" line="38" />
+    <bookmark url="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/SmallestBoundingRectangle.java" line="19" />
+    <bookmark url="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/HistoryGrading.java" line="47" />
+    <bookmark url="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/UnidirectionalTSP.java" line="70" />
+    <bookmark url="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/UnidirectionalTSP.java" line="57" />
+    <bookmark url="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/UnidirectionalTSP.java" line="78" />
+    <bookmark url="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/UnidirectionalTSP.java" line="69" />
+    <bookmark url="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/UnidirectionalTSP.java" line="12" />
+    <bookmark url="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/UnidirectionalTSP.java" line="94" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef5e3471-a7dc-4a6f-9a71-a48372c6d754" name="Default" comment="">
+    <list default="true" id="ef5e3471-a7dc-4a6f-9a71-a48372c6d754" name="Default" comment="Problems VJudge:">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/NoteBook/RotatingCalipers.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/BeyBattle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/CalculatorLanguage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/CommandoWar.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/HowFar.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/TreeSumming.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/UnidirectionalTSP.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/BestCompressionEver.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/CalculatorLanguage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/FewestFlops.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/GalaxyCollision.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/HowFar.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/JustABitSorted.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/MaximumTriangleArea.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/NotTheBest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/OOPS.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/PlayOnWords.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/Recycling.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/SecretPoems.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/SmallestBoundingRectangle.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/UbiquitousReligions.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Problems-Online-Judge.iml" afterPath="$PROJECT_DIR$/Problems-Online-Judge.iml" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemsIn_Java/NoteBook/GeometriaComputacional.java" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/NoteBook/GeometriaComputacional.java" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/Airports.java" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/Airports.java" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/HistoryGrading.java" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/HistoryGrading.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,83 +55,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StringFactoring.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/NoteBook/StringFactoring.java">
+      <file leaf-file-name="RotatingCalipers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/NoteBook/RotatingCalipers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="51">
+              <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#getArea#0;class#RotatingCalipers#0" expanded="false" />
+                <element signature="method#getAllBoundingRectangles#0;class#RotatingCalipers#0" expanded="false" />
+                <element signature="method#getAllBoundingRectangles#1;class#RotatingCalipers#0" expanded="false" />
+                <element signature="method#getMinimumBoundingRectangle#0;class#RotatingCalipers#0" expanded="false" />
+                <element signature="method#getMinimumBoundingRectangle#1;class#RotatingCalipers#0" expanded="false" />
+                <element signature="method#getSmallestTheta#0;class#RotatingCalipers#0" expanded="false" />
+                <element signature="method#getIndex#0;class#RotatingCalipers#0" expanded="false" />
+                <element signature="class#Caliper#0;class#RotatingCalipers#0" expanded="false" />
+                <element signature="method#Caliper#0;class#Caliper#0;class#RotatingCalipers#0" expanded="false" />
+                <element signature="method#getAngleNextPoint#0;class#Caliper#0;class#RotatingCalipers#0" expanded="false" />
+                <element signature="method#getConstant#0;class#Caliper#0;class#RotatingCalipers#0" expanded="false" />
+                <element signature="method#getDeltaAngleNextPoint#0;class#Caliper#0;class#RotatingCalipers#0" expanded="false" />
+                <element signature="method#getIntersection#0;class#Caliper#0;class#RotatingCalipers#0" expanded="false" />
+                <element signature="method#isVertical#0;class#Caliper#0;class#RotatingCalipers#0" expanded="false" />
+                <element signature="method#rotateBy#0;class#Caliper#0;class#RotatingCalipers#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PascalsTriangleOfDeath.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/PascalsTriangleOfDeath.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AlmostUnionFind.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/AlmostUnionFind.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="47" column="13" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="47" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RujiaLiuLovesWarioLand.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/RujiaLiuLovesWarioLand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1207">
-              <caret line="76" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelpCupid.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/HelpCupid.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThenEqualsKProblemUVA10025.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/ThenEqualsKProblemUVA10025.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="9" column="87" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="87" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HiddenPassword.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/HiddenPassword.java">
+      <file leaf-file-name="SmallestBoundingRectangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/SmallestBoundingRectangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+              <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#convexHullGS#0;class#SmallestBoundingRectangle#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CalculatorLanguage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/CalculatorLanguage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,11 +107,81 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThePostalWorkerRingsOnce.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/ThePostalWorkerRingsOnce.java">
+      <file leaf-file-name="HistoryGrading.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/HistoryGrading.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="49" column="16" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+            <state relative-caret-position="123">
+              <caret line="45" column="17" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="52" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeSumming.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/TreeSumming.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UnidirectionalTSP.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/UnidirectionalTSP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="94" column="13" lean-forward="false" selection-start-line="91" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#5732#5733#0" expanded="true" />
+                <element signature="e#5797#5798#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SecretPoems.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/SecretPoems.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="25" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Grafos.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/NoteBook/Grafos.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Recycling.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/Recycling.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommandoWar.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/CommandoWar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -136,11 +208,21 @@
       <find>kruskall</find>
       <find>graph</find>
       <find>limi</find>
+      <find>UPPER_RIGHT</find>
+      <find>.x</find>
+      <find>.y</find>
+      <find>Point</find>
+      <find>path</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>out</replace>
       <replace>mAdy</replace>
+      <replace>Point2D</replace>
+      <replace>getX()</replace>
+      <replace>.getX()</replace>
+      <replace>.getY()</replace>
+      <replace>Point2D.Double</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\david\OneDrive\Documentos\GitHub\Problems-Online-Judge\src\ProblemsIn_CPlusPlus</dir>
@@ -165,30 +247,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/CampamentoCuba2018/CodeChef/SanckDown2017/PreElimination/SnakesMongoosesAndTheUltimateElection.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/CampamentoCuba2018/BreakingRSA.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/CodeForces/Dijkstra.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/Light OJ/CrossedLaders.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/Competencias/CodeJam2018/Main.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/Light-OJ/CrossedLaders.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/LightOJ/CrossedLaders.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/Uri/ÁreadelCírculo.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/Uri/Área.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/ProjectEuler/PandigitalFibonacci.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/Notebook_Camus/Annexes/BoardPuzzleSolved.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/Uri/SumaDeNúmerosConsecutivosImparesI.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/A_Multiplication_Game.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/CakeyMcCakeFace.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/Notebook_Camus/Annexes/EightQueens.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/Notebook_Camus/Annexes/Haversine.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/Notebook_Camus/Mathematics/ExactPowers.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/Notebook_Camus/Mathematics/ExtendsEuclides.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/Notebook_Camus/Mathematics/Kadane2D.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/LightOJ/PowerPuffGirls.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/Eigensequence.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/LongestPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/2the9s.java" />
-        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/Main.java" />
         <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/GleamingtTheCubes.java" />
         <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/CountTheTrees.java" />
         <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/TwoOfNines.java" />
@@ -216,6 +274,30 @@
         <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/HamiltonianCycle.java" />
         <option value="$PROJECT_DIR$/src/ProblemsIn_Java/NoteBook/StringFactoring.java" />
         <option value="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/PascalsTriangleOfDeath.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/HowFar.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/HowFar.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/FewestFlops.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/PlayOnWords.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/MaximumTriangleArea.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/Airports.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/OOPS.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/GalaxyCollision.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/UbiquitousReligions.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/CalculatorLanguage.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/JustABitSorted.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/NoteBook/RotatingCalipers.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/NoteBook/GeometriaComputacional.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/Recycling.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/NotTheBest.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/BestCompressionEver.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/BeyBattle.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/CommandoWar.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/SmallestBoundingRectangle.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/CalculatorLanguage.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/HistoryGrading.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/TreeSumming.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/UnidirectionalTSP.java" />
+        <option value="$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/SecretPoems.java" />
       </list>
     </option>
   </component>
@@ -226,10 +308,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-5" />
-    <option name="y" value="6" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -239,19 +320,38 @@
             <id />
           </State>
           <State>
-            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
           </State>
           <State>
-            <id>Android Lint for Kotlin</id>
+            <id>General</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
           </State>
         </expanded-state>
-        <selected-state>
-          <State>
-            <id>Android</id>
-          </State>
-        </selected-state>
       </profile-state>
     </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -268,6 +368,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -298,19 +401,19 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ProblemsIn_Java.VirtualJudge" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\david\OneDrive\Documentos\GitHub\Problems-Online-Judge\src\ProblemsIn_Python\Metodos" />
       <recent name="C:\Users\david\OneDrive\Documentos\GitHub\Problems-Online-Judge\src\ProblemsIn_CPlusPlus" />
@@ -331,15 +434,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PascalsTriangleOfDeath">
-    <configuration name="HamiltonianCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.SecretPoems">
+    <configuration name="BestCompressionEver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="ProblemsIn_Java.VirtualJudge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ProblemsIn_Java.VirtualJudge.HamiltonianCycle" />
+      <option name="MAIN_CLASS_NAME" value="ProblemsIn_Java.VirtualJudge.BestCompressionEver" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -351,52 +454,14 @@
       <module name="Problems-Online-Judge" />
       <envs />
     </configuration>
-    <configuration name="HiddenPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ProblemsIn_Java.VirtualJudge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ProblemsIn_Java.VirtualJudge.HiddenPassword" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Problems-Online-Judge" />
-      <envs />
-    </configuration>
-    <configuration name="KingdomDivision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ProblemsIn_Java.VirtualJudge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ProblemsIn_Java.VirtualJudge.KingdomDivision" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Problems-Online-Judge" />
-      <envs />
-    </configuration>
-    <configuration name="PascalsTriangleOfDeath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="HistoryGrading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="ProblemsIn_Java.Uva.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ProblemsIn_Java.Uva.PascalsTriangleOfDeath" />
+      <option name="MAIN_CLASS_NAME" value="ProblemsIn_Java.Uva.HistoryGrading" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -408,14 +473,52 @@
       <module name="Problems-Online-Judge" />
       <envs />
     </configuration>
-    <configuration name="ThePostalWorkerRingsOnce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SecretPoems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="ProblemsIn_Java.VirtualJudge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ProblemsIn_Java.VirtualJudge.ThePostalWorkerRingsOnce" />
+      <option name="MAIN_CLASS_NAME" value="ProblemsIn_Java.VirtualJudge.SecretPoems" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Problems-Online-Judge" />
+      <envs />
+    </configuration>
+    <configuration name="TreeSumming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ProblemsIn_Java.Uva.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ProblemsIn_Java.Uva.TreeSumming" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Problems-Online-Judge" />
+      <envs />
+    </configuration>
+    <configuration name="UnidirectionalTSP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ProblemsIn_Java.Uva.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ProblemsIn_Java.Uva.UnidirectionalTSP" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -443,19 +546,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.HiddenPassword" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ThePostalWorkerRingsOnce" />
-      <item index="2" class="java.lang.String" itemvalue="Application.KingdomDivision" />
-      <item index="3" class="java.lang.String" itemvalue="Application.HamiltonianCycle" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PascalsTriangleOfDeath" />
+      <item index="0" class="java.lang.String" itemvalue="Application.BestCompressionEver" />
+      <item index="1" class="java.lang.String" itemvalue="Application.HistoryGrading" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TreeSumming" />
+      <item index="3" class="java.lang.String" itemvalue="Application.UnidirectionalTSP" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SecretPoems" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PascalsTriangleOfDeath" />
-        <item index="1" class="java.lang.String" itemvalue="Application.HamiltonianCycle" />
-        <item index="2" class="java.lang.String" itemvalue="Application.KingdomDivision" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ThePostalWorkerRingsOnce" />
-        <item index="4" class="java.lang.String" itemvalue="Application.HiddenPassword" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SecretPoems" />
+        <item index="1" class="java.lang.String" itemvalue="Application.UnidirectionalTSP" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TreeSumming" />
+        <item index="3" class="java.lang.String" itemvalue="Application.HistoryGrading" />
+        <item index="4" class="java.lang.String" itemvalue="Application.BestCompressionEver" />
       </list>
     </recent_temporary>
   </component>
@@ -494,6 +597,16 @@
       <workItem from="1533961656628" duration="766000" />
       <workItem from="1537643136468" duration="59000" />
       <workItem from="1537643898033" duration="98000" />
+      <workItem from="1538361918053" duration="278000" />
+      <workItem from="1538541362249" duration="6011000" />
+      <workItem from="1539058223549" duration="4001000" />
+      <workItem from="1539448036687" duration="5506000" />
+      <workItem from="1539634069402" duration="3705000" />
+      <workItem from="1539916873464" duration="10772000" />
+      <workItem from="1540263674367" duration="12298000" />
+      <workItem from="1540779169851" duration="13204000" />
+      <workItem from="1541824969212" duration="20000" />
+      <workItem from="1542774986117" duration="4143000" />
     </task>
     <task id="LOCAL-00001" summary="Correccion">
       <created>1526273951869</created>
@@ -548,39 +661,39 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94427000" />
+    <option name="totallyTimeSpent" value="154365000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730263" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3169572" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32761577" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38322368" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27672035" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29425114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39936608" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46710527" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -630,222 +743,27 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="14" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/TreeSumming.java</url>
+          <line>41</line>
+          <properties class="ProblemsIn_Java.Uva.TreeSumming" method="recursion">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/SecretPoems.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="44" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/out/production/Problems-Online-Judge/ProblemsIn_Java/CodeChef/SanckDown2017/PreElimination/SnakesMongoosesAndTheUltimateElection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/LightOJ/PowerPuffGirls.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="87" column="48" lean-forward="false" selection-start-line="87" selection-start-column="48" selection-end-line="87" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/CodeChef/SanckDown2017/PreElimination/SnakesMongoosesAndTheUltimateElection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="621" column="15" lean-forward="false" selection-start-line="621" selection-start-column="15" selection-end-line="621" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Long.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="588" column="0" lean-forward="false" selection-start-line="588" selection-start-column="0" selection-end-line="588" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-683">
-          <caret line="87" column="11" lean-forward="false" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/io/BufferedReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="388" column="0" lean-forward="false" selection-start-line="388" selection-start-column="0" selection-end-line="388" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/LongestPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/GleamingtTheCubes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-119">
-          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/TwoOfNines.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-185">
-          <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/EuclidsGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/CountTheTrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/deploy.jar!/com/sun/deploy/uitoolkit/impl/text/TextUIToolkit.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="579" column="0" lean-forward="false" selection-start-line="579" selection-start-column="0" selection-end-line="579" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/CuttingSticks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="15" column="51" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/CuttingSticks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="26" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Throwable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="779" column="34" lean-forward="false" selection-start-line="779" selection-start-column="34" selection-end-line="779" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Exception.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="53" column="12" lean-forward="false" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/LetMeCountTheWays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/Eigensequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/FerryLoading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-467">
-          <caret line="39" column="37" lean-forward="true" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uri/Divisors1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/MakeCoins.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="36" column="37" lean-forward="true" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/SocialHare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="125" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/NoteBook/FlujoEnRedes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/NoteBook/Grafos.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="833" column="9" lean-forward="true" selection-start-line="779" selection-start-column="8" selection-end-line="833" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="2880" column="0" lean-forward="false" selection-start-line="2880" selection-start-column="0" selection-end-line="2880" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/StringTokenizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="348" column="0" lean-forward="false" selection-start-line="348" selection-start-column="0" selection-end-line="348" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/PetersCalculator.java" />
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/socialhare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="86" column="9" lean-forward="false" selection-start-line="86" selection-start-column="9" selection-end-line="86" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/HowManyNodes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -857,9 +775,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -884,16 +799,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/AlmostUnionFind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="47" column="13" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="47" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/InfectedLand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -901,59 +806,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Formatter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="2518" column="0" lean-forward="false" selection-start-line="2518" selection-start-column="0" selection-end-line="2518" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Formatter.java" />
     <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/KingdomDivision.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
           <caret line="31" column="9" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/ThePostalWorkerRingsOnce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="49" column="16" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/HelpCupid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/RujiaLiuLovesWarioLand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
-          <caret line="76" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/ThenEqualsKProblemUVA10025.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="87" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="87" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -965,37 +824,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/HiddenPassword.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/NumberFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="408" column="25" lean-forward="false" selection-start-line="408" selection-start-column="25" selection-end-line="408" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/NumberFormatException.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/ArrayList.java" />
     <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/HamiltonianCycle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
           <caret line="17" column="56" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1003,25 +837,341 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/PascalsTriangleOfDeath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/AlmostUnionFind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="47" column="13" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/RujiaLiuLovesWarioLand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/HelpCupid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/ThenEqualsKProblemUVA10025.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="87" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/HiddenPassword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/ThePostalWorkerRingsOnce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="49" column="16" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/HowFar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/Airports.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="47" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uri/DarkRoads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="74" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/MaximumTriangleArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/Biorhythms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="30" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/LetMeCountTheWays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/StringTokenizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="348" column="0" lean-forward="false" selection-start-line="348" selection-start-column="0" selection-end-line="348" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/NoteBook/edwin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1418">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/JustABitSorted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="55" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1391#1397#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/CalculatorLanguage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/OOPS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/UbiquitousReligions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="56" lean-forward="false" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/GalaxyCollision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/NoteBook/GeometriaComputacional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="96" column="4" lean-forward="false" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/BeyBattle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="50" column="22" lean-forward="true" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/PlayOnWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/HowFar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/FewestFlops.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/BestCompressionEver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/NotTheBest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/PascalsTriangleOfDeath.java">
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/Recycling.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        <state relative-caret-position="578">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/CommandoWar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/NoteBook/RotatingCalipers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getArea#0;class#RotatingCalipers#0" expanded="false" />
+            <element signature="method#getAllBoundingRectangles#0;class#RotatingCalipers#0" expanded="false" />
+            <element signature="method#getAllBoundingRectangles#1;class#RotatingCalipers#0" expanded="false" />
+            <element signature="method#getMinimumBoundingRectangle#0;class#RotatingCalipers#0" expanded="false" />
+            <element signature="method#getMinimumBoundingRectangle#1;class#RotatingCalipers#0" expanded="false" />
+            <element signature="method#getSmallestTheta#0;class#RotatingCalipers#0" expanded="false" />
+            <element signature="method#getIndex#0;class#RotatingCalipers#0" expanded="false" />
+            <element signature="class#Caliper#0;class#RotatingCalipers#0" expanded="false" />
+            <element signature="method#Caliper#0;class#Caliper#0;class#RotatingCalipers#0" expanded="false" />
+            <element signature="method#getAngleNextPoint#0;class#Caliper#0;class#RotatingCalipers#0" expanded="false" />
+            <element signature="method#getConstant#0;class#Caliper#0;class#RotatingCalipers#0" expanded="false" />
+            <element signature="method#getDeltaAngleNextPoint#0;class#Caliper#0;class#RotatingCalipers#0" expanded="false" />
+            <element signature="method#getIntersection#0;class#Caliper#0;class#RotatingCalipers#0" expanded="false" />
+            <element signature="method#isVertical#0;class#Caliper#0;class#RotatingCalipers#0" expanded="false" />
+            <element signature="method#rotateBy#0;class#Caliper#0;class#RotatingCalipers#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/SmallestBoundingRectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#convexHullGS#0;class#SmallestBoundingRectangle#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/CalculatorLanguage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="114" column="11" lean-forward="false" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/TreeSumming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/NoteBook/Grafos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/UnidirectionalTSP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="94" column="13" lean-forward="false" selection-start-line="91" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5732#5733#0" expanded="true" />
+            <element signature="e#5797#5798#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/Uva/HistoryGrading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="45" column="17" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProblemsIn_Java/VirtualJudge/SecretPoems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="25" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>

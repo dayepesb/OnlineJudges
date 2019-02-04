@@ -59,7 +59,6 @@ public class Routing {
 				x = X.poll();
 				y = Y.poll();
 				inq[x][y] = 0;
-				// printf("%2d %2d %d\n", x, y, dp[x][y]);
 				for (int i = 1; i <= nodos; i++) {
 					int cost = (x != i && y != i) ? 1 : 0;
 					if (g[x][i] == 1) {

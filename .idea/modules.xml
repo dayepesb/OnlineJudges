@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Problems-Online-Judge.iml" filepath="$PROJECT_DIR$/Problems-Online-Judge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OnlineJudges.iml" filepath="$PROJECT_DIR$/OnlineJudges.iml" />
     </modules>
   </component>
 </project>

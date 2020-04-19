@@ -1,3 +1,5 @@
+package ProblemsIn_Java.VirtualJudge;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -20,7 +22,7 @@ public class Game {
             tab = new char[5][];
             int rows = 5;
             while (rows-- >= 0) {
-                System.out.prinln(4 - rows);
+                System.out.println(4 - rows);
                 tab[4 - rows] = in.readLine().toUpperCase().toCharArray();
             }
             System.exit(0);

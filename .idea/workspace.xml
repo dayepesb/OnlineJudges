@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef5e3471-a7dc-4a6f-9a71-a48372c6d754" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/ConvexHullFinding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/FormingQuizTeams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/Huffman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/SubExpressionCounting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProblemsIn_CPlusPlus/Uva/EducationalJourney.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProblemsIn_CPlusPlus/Uva/GraphConectivity.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProblemsIn_CPlusPlus/Uva/InstantViewOfBigBang.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProblemsIn_CPlusPlus/Uva/RomeoAndJulietSecrets.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProblemsIn_CPlusPlus/Uva/ThunderMountain.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProblemsIn_CPlusPlus/Uva/nacional.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/PeriodicStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/PeriodicStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/TheLargestClique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemsIn_Java/Uva/TheLargestClique.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,38 +22,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>//</find>
-      <find>System.out</find>
-      <find>fordfu</find>
-      <find>krus</find>
-      <find>PRIM</find>
-      <find>kruskall</find>
-      <find>graph</find>
-      <find>limi</find>
-      <find>UPPER_RIGHT</find>
-      <find>.x</find>
-      <find>.y</find>
-      <find>Point</find>
-      <find>path</find>
-      <find>Emoticons</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-      <replace>out</replace>
-      <replace>mAdy</replace>
-      <replace>Point2D</replace>
-      <replace>getX()</replace>
-      <replace>.getX()</replace>
-      <replace>.getY()</replace>
-      <replace>Point2D.Double</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>C:\Users\david\OneDrive\Documentos\GitHub\Problems-Online-Judge\src\ProblemsIn_CPlusPlus</dir>
-      <dir>C:\Users\david\OneDrive\Documentos\GitHub\Problems-Online-Judge\src\ProblemsIn_Java\Light OJ</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -107,11 +75,18 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -127,22 +102,10 @@
       <recent name="C:\Users\david\OneDrive\Documentos\GitHub\Problems-Online-Judge\src" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.ZipfsLaw">
-    <configuration name="BallsAndNeedles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemsIn_Java.Uva.BallsAndNeedles" />
-      <module name="Problems-Online-Judge" />
+  <component name="RunManager" selected="Application.SubExpressionCounting">
+    <configuration name="ConvexHull" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemsIn_Java.Uva.ConvexHull" />
+      <module name="OnlineJudges" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ProblemsIn_Java.Uva.*" />
@@ -153,35 +116,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DigitsCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemsIn_Java.VirtualJudge.DigitsCount" />
-      <module name="Problems-Online-Judge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProblemsIn_Java.VirtualJudge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecretPoems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemsIn_Java.VirtualJudge.SecretPoems" />
-      <module name="Problems-Online-Judge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProblemsIn_Java.VirtualJudge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UnidirectionalTSP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemsIn_Java.Uva.UnidirectionalTSP" />
-      <module name="Problems-Online-Judge" />
+    <configuration name="ConvexHullFinding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemsIn_Java.Uva.ConvexHullFinding" />
+      <module name="OnlineJudges" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ProblemsIn_Java.Uva.*" />
@@ -192,12 +129,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZipfsLaw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemsIn_Java.VirtualJudge.ZipfsLaw" />
-      <module name="Problems-Online-Judge" />
+    <configuration name="FormingQuizTeams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemsIn_Java.Uva.FormingQuizTeams" />
+      <module name="OnlineJudges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProblemsIn_Java.VirtualJudge.*" />
+          <option name="PATTERN" value="ProblemsIn_Java.Uva.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PeriodicStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemsIn_Java.Uva.PeriodicStrings" />
+      <module name="OnlineJudges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProblemsIn_Java.Uva.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubExpressionCounting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemsIn_Java.Uva.SubExpressionCounting" />
+      <module name="OnlineJudges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProblemsIn_Java.Uva.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,19 +169,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.UnidirectionalTSP" />
-      <item itemvalue="Application.SecretPoems" />
-      <item itemvalue="Application.BallsAndNeedles" />
-      <item itemvalue="Application.DigitsCount" />
-      <item itemvalue="Application.ZipfsLaw" />
+      <item itemvalue="Application.FormingQuizTeams" />
+      <item itemvalue="Application.ConvexHull" />
+      <item itemvalue="Application.PeriodicStrings" />
+      <item itemvalue="Application.ConvexHullFinding" />
+      <item itemvalue="Application.SubExpressionCounting" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ZipfsLaw" />
-        <item itemvalue="Application.DigitsCount" />
-        <item itemvalue="Application.BallsAndNeedles" />
-        <item itemvalue="Application.SecretPoems" />
-        <item itemvalue="Application.UnidirectionalTSP" />
+        <item itemvalue="Application.SubExpressionCounting" />
+        <item itemvalue="Application.ConvexHullFinding" />
+        <item itemvalue="Application.PeriodicStrings" />
+        <item itemvalue="Application.ConvexHull" />
+        <item itemvalue="Application.FormingQuizTeams" />
       </list>
     </recent_temporary>
   </component>
@@ -276,6 +239,9 @@
       <workItem from="1571894194300" duration="4570000" />
       <workItem from="1573226994297" duration="32000" />
       <workItem from="1573529253860" duration="1604000" />
+      <workItem from="1587692953587" duration="1324000" />
+      <workItem from="1587859010738" duration="4655000" />
+      <workItem from="1589047313161" duration="12780000" />
     </task>
     <task id="LOCAL-00001" summary="Correccion">
       <created>1526273951869</created>
@@ -360,6 +326,65 @@
     <MESSAGE value="Problems VJudge:&#10;&#10;FerryLoading&#10;FileFragmentation&#10;LetMeCountTheWays&#10;MakeCoins" />
     <MESSAGE value="Problems VJudge:" />
     <option name="LAST_COMMIT_MESSAGE" value="Problems VJudge:" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="569" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587692958721">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="569" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1587692958721" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1589096000543">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1589096000543" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587999421781" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1589062009133" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1589096000541">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1589096000541" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587999421780" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.23.1440.877/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1589062009131" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1589096000541">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1589096000541" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587999421780" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.23.1440.877/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1589062009130" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1589096000542">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1589096000542" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587999421781" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.23.1440.877/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1589062009132" />
+    <state width="1878" height="374" key="GridCell.Tab.1.bottom" timestamp="1589055348683">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="374" key="GridCell.Tab.1.bottom/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1589055348683" />
+    <state width="1878" height="374" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1589054534730" />
+    <state width="1878" height="374" key="GridCell.Tab.1.center" timestamp="1589055348682">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="374" key="GridCell.Tab.1.center/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1589055348682" />
+    <state width="1878" height="374" key="GridCell.Tab.1.center/0.23.1440.877/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1589054534728" />
+    <state width="1878" height="374" key="GridCell.Tab.1.left" timestamp="1589055348681">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="374" key="GridCell.Tab.1.left/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1589055348681" />
+    <state width="1878" height="374" key="GridCell.Tab.1.left/0.23.1440.877/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1589054534725" />
+    <state width="1878" height="374" key="GridCell.Tab.1.right" timestamp="1589055348683">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="374" key="GridCell.Tab.1.right/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1589055348683" />
+    <state width="1878" height="374" key="GridCell.Tab.1.right/0.23.1440.877/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1589054534729" />
+    <state x="-1519" y="210" width="1116" height="825" key="find.popup" timestamp="1589061526258">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1519" y="210" width="1116" height="825" key="find.popup/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1589061526258" />
+    <state x="301" y="175" width="837" height="550" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1587863836985" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1587860487556">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1587860487556" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

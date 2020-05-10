@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
+import java.util.Arrays;
 import java.util.Scanner;
 
 /**
@@ -12,42 +13,40 @@ import java.util.Scanner;
  * @time 0.000 ms
  */
 public class PeriodicStrings {
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args) {
 		Scanner in = new Scanner(new BufferedReader(new InputStreamReader(System.in)));
 		PrintWriter out = new PrintWriter(System.out);
 
-		int tc = in.nextInt();
-		for (int i = 0; i < tc; i++) {
+		int cases = in.nextInt();
+		for (int i = 0; i < cases; i++) {
 			String s = in.next();
-			int [] border = getBorderkMP(s.toCharArray());
-			for (int j = 0; j < border.length; j++) {
-				int t = border.length-1;
-				int k = t-border[j];
-				if(t%k==0) {
-					out.println(t/4);
-					break;
-				}
-			}
+			int border = getBorderkMP(s.toCharArray());
+			int length = s.length();
+			if(length%(length-border-1)==0)
+				out.printf("%d\n", length-border-1);
+			else
+				 out.printf("%d\n", length);
 
+			if (i!=(cases-1))
+				out.println(i+"csadasdasd");
 		}
 
 		in.close();
 		out.close();
 	}
 
-	static int[] getBorderkMP(char[] cadena) {
-		int[] T = new int[cadena.length + 1];
-		T[0] = -1;
-		T[1] = 0;
-		for (int i = 2, j = 0; i <= cadena.length;) {
-			if (cadena[i - 1] == cadena[j])
-				T[i++] = ++j;
-			else if (j > 0)
-				j = T[j];
-			else
-				T[i++] = 0;
+	static int getBorderkMP(char[] cadena) {
+		int P[] = new int[cadena.length];
+		P[0] = -1;
+		int j = -1;
+		for (int i = 1 ; i < cadena.length ; i++){
+			while(j >= 0 && cadena[j+1] != cadena[i])
+				j = P[j];
+			if(cadena[j+1] == cadena[i])
+				++j;
+			P[i] = j;
 		}
-		return T;
+		return j;
 	}
 
 }

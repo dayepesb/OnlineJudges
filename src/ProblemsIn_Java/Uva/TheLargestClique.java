@@ -3,36 +3,32 @@ package ProblemsIn_Java.Uva;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.Scanner;
-import java.util.Stack;
-import java.util.TreeSet;
+import java.util.*;
 
 public class TheLargestClique {
 
-	static LinkedList<Integer>[] G;
+	static ArrayList<Integer>[] G;
 	static Stack<Integer> sort;
 	static int mark;
-	static int[] V;
-	static int[] W;
+	static int[] vertex;
+	static int[] weith;
 	static int[] dp;
-	static TreeSet<Integer>[] C;
+	static TreeSet<Integer>[] components;
 
-	public static void main(String[] args) throws Exception {
+	public static void main(String[] args) {
 		Scanner in = new Scanner(new BufferedReader(new InputStreamReader(System.in)));
 		PrintWriter out = new PrintWriter(System.out);
 		int tc = in.nextInt();
 		while (tc-- > 0) {
 			int nodes = in.nextInt();
 			int edges = in.nextInt();
-			G = new LinkedList[nodes];
+			G = new ArrayList[nodes];
 			for (int i = 0; i < G.length; i++)
-				G[i] = new LinkedList<Integer>();
+				G[i] = new ArrayList<>();
 			for (int i = 0; i < edges; i++) {
 				G[in.nextInt() - 1].add(in.nextInt() - 1);
 			}
-			V = new int[nodes];
+			vertex = new int[nodes];
 			sort = new Stack<Integer>();
 			compress();
 			out.println(longestPath());
@@ -40,10 +36,10 @@ public class TheLargestClique {
 		out.close();
 	}
 
-	public static LinkedList<Integer>[] transpose() {
-		LinkedList<Integer>[] Gt = new LinkedList[G.length];
+	public static ArrayList<Integer>[] transpose() {
+		ArrayList<Integer>[] Gt = new ArrayList[G.length];
 		for (int i = 0; i < Gt.length; i++)
-			Gt[i] = new LinkedList<Integer>();
+			Gt[i] = new ArrayList<Integer>();
 		for (int i = 0; i < G.length; i++)
 			for (int j : G[i])
 				Gt[j].add(i);
@@ -51,8 +47,8 @@ public class TheLargestClique {
 	}
 
 	public static void dfs(int i, boolean push) {
-		if (V[i] == -1) {
-			V[i] = mark;
+		if (vertex[i] == -1) {
+			vertex[i] = mark;
 			for (int j : G[i])
 				dfs(j, push);
 			if (push)
@@ -61,17 +57,17 @@ public class TheLargestClique {
 	}
 
 	public static void compress() {
-		Arrays.fill(V, -1);
+		Arrays.fill(vertex, -1);
 		mark = 0;
 		for (int i = 0; i < G.length; i++)
 			dfs(i, true);
 
 		int SCC = 0;
-		Arrays.fill(V, -1);
+		Arrays.fill(vertex, -1);
 		G = transpose();
 		while (!sort.isEmpty()) {
 			int k = sort.pop();
-			if (V[k] == -1) {
+			if (vertex[k] == -1) {
 				mark = SCC;
 				dfs(k, false);
 				SCC++;
@@ -83,27 +79,27 @@ public class TheLargestClique {
 		for (int i = 0; i < SCC; i++)
 			compressed[i] = new TreeSet<Integer>();
 		for (int i = 0; i < G.length; i++) {
-			count[V[i]]++;
+			count[vertex[i]]++;
 			for (int j : G[i]) {
-				if (V[i] != V[j])
-					compressed[V[i]].add(V[j]);
+				if (vertex[i] != vertex[j])
+					compressed[vertex[i]].add(vertex[j]);
 			}
 		}
-		C = compressed;
-		W = count;
+		components = compressed;
+		weith = count;
 	}
 
 	public static int go(int i) {
 		if (dp[i] != -1)
 			return dp[i];
 		int max = 0;
-		for (int j : C[i])
+		for (int j : components[i])
 			max = Math.max(max, go(j));
-		return dp[i] = max + W[i];
+		return dp[i] = max + weith[i];
 	}
 
 	public static int longestPath() {
-		dp = new int[W.length];
+		dp = new int[weith.length];
 		Arrays.fill(dp, -1);
 		int max = 0;
 		for (int i = 0; i < dp.length; i++)
